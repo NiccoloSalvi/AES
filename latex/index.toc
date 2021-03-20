@@ -1,0 +1,23 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Introduzione}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Criteri di valutazione}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Valutazione \textit {Rijndael}}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Descrizione Algoritmo}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}La cifratura AES}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Numero di \textit {round}}{5}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}State}{5}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}\textit {S-box}}{6}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}SubBytes}{7}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}ShiftRows}{8}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}MixColumns}{8}{subsubsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.7}AddRoundKey}{10}{subsubsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.8}Espansione chiave}{10}{subsubsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.2}La decifratura di AES}{12}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}\textit {InvS-box}}{13}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}InvShiftRows}{13}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}InvSubBytes}{14}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}InvMixColumns}{14}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Cifratura inversa equivalente}{14}{subsubsection.2.2.5}%
+\contentsline {paragraph}{Scambio tra \textit {InvShiftRows} e \textit {InvSubBytes}}{15}{section*.2}%
+\contentsline {paragraph}{Scambio tra \textit {AddRoundKey} e \textit {InvMixColumns}}{15}{section*.3}%
