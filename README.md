@@ -1,2 +1,2 @@
 # AES
-## Rijndael algorithm explanation
+Rijndael algorithm explanation
